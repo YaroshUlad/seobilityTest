@@ -1,0 +1,11 @@
+.wrapper {
+    width: 500px;
+    padding: 20px;
+}
+.wrapperDiv {
+    width: 100%;
+}
+.wrapper button:nth-child(6) {
+    width: 200px;
+    margin: 10px auto;
+}
